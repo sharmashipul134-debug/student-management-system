@@ -1,0 +1,6 @@
+student.db
+students.json
+.vscode/
+__pycache__/
+*.pyc
+test.py
